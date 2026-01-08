@@ -121,3 +121,44 @@ nav {
     max-width: 585px;
     vertical-align: middle;
 }
+
+/* Its all about aboutme section  */
+
+.aboutme {
+    margin: 130px 230px 0px 230px;
+    padding: 130px 157px;
+    background-color: #FFF8F3;
+    /* border: 1px solid red;  */
+}
+
+.aboutme-header h2 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    padding-bottom: 30px;
+
+}
+
+.aboutme-header p {
+    text-align: center;
+    font-size: 18px;
+    color: #757575;
+    padding-bottom: 30px;
+}
+
+.aboutme-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutme-card h4 {
+
+    font-size: 20px;
+    text-align: center;
+    color: #757575;
+
+}
+
+.aboutme-card h3 {
+    font-size: 20px;
+}
